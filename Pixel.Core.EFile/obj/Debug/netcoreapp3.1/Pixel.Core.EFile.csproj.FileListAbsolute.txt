@@ -1,0 +1,7 @@
+D:\HTML5\_nuget\netcoreapp3.1\Pixel.Core.EFile.deps.json
+D:\HTML5\_nuget\netcoreapp3.1\Pixel.Core.EFile.dll
+D:\HTML5\_nuget\netcoreapp3.1\Pixel.Core.EFile.pdb
+D:\HTML5\Core\Pixel.Core.EFile\obj\Debug\netcoreapp3.1\Pixel.Core.EFile.AssemblyInfoInputs.cache
+D:\HTML5\Core\Pixel.Core.EFile\obj\Debug\netcoreapp3.1\Pixel.Core.EFile.AssemblyInfo.cs
+D:\HTML5\Core\Pixel.Core.EFile\obj\Debug\netcoreapp3.1\Pixel.Core.EFile.dll
+D:\HTML5\Core\Pixel.Core.EFile\obj\Debug\netcoreapp3.1\Pixel.Core.EFile.pdb
